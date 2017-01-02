@@ -1,0 +1,2 @@
+# SakuraIoT_DoorSensor
+ArduinoでDigitalInputのon/offをさくらIoT Platformに送信するだけの簡単なコード
